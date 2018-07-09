@@ -46,6 +46,41 @@ title_label: 'May require JavaScript'
   </div>
 </div>
 
+## CSS Class Overview
+
+<table class="fsa-table">
+  <thead>
+    <th scope="col">Selector</th>
+    <th scope="col">Description</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><code>fsa-nav-global</code></th>
+      <td>Provide the base style for other classes to build upon</td>
+    </tr>
+    <tr>
+      <th scope="row"><code>fsa-nav-global__bd</code></th>
+      <td>Provide the standard style and position of the background of the component top level</td>
+    </tr>
+    <tr>
+      <th scope="row"><code>fsa-nav-global__list</code></th>
+      <td>Paired with <code>fsa-nav-global__list-item</code>, will provide the structure for each navigation item</td>
+    </tr>
+    <tr>
+      <th scope="row"><code>fsa-nav-global__link-active</code></th>
+      <td>Provides standardized style and position for form elements</td>
+    </tr>
+    <tr>
+      <th scope="row"><code>fsa-nav-global__text</code></th>
+      <td>Provides instructional text in a standardized location</td>
+    </tr>
+    <tr>
+      <th scope="row"><code>fsa-nav-global__</code></th>
+      <td>Provides validation and error messaging in standardized location</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Variations
 
 Global Navigation shall use `class="fsa-nav-global"`.
