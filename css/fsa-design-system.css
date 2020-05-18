@@ -15430,10 +15430,6 @@ pre.highlight .ds-clipboard {
   text-decoration: none;
 }
 
-[data-parent] {
-  outline: 1px solid orangered;
-}
-
 .your-custom-list {
   display: block;
   list-style-type: none;
